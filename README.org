@@ -4,7 +4,7 @@ ASDF contrib for SLY
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/mmgeorge/sly-asdf.git |
-| commit  | 6f9d751                                      |
+| commit  | c1fa52d                                      |
 | systems | slynk-asdf                                   |
 |---------+----------------------------------------------|
   
